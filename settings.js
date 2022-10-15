@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autobio = true 
 
 //language
@@ -33,7 +33,7 @@ global.email = "rrsszxx98@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281226675327'] //premium user
-global.owner = ["62895401928948","62895401928948"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["62895401928948","6281226675327"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62895401928948" // nomor wa kalian
 global.ownernomerr = "+62895401928948" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
